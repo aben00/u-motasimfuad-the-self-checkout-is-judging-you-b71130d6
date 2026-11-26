@@ -1,0 +1,1 @@
+{"description":"One funny remark from a judgmental self-checkout machine, at most 200 characters.","license":"MIT","main":"main.ts","name":"u-motasimfuad-the-self-checkout-is-judging-you-b71130d6","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
